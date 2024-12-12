@@ -1,0 +1,11 @@
+/Users/carterwickstrom/RiderProjects/SqaGroup.CoffeeMachine/SqaGroup.CoffeeMachine/bin/Debug/net9.0/SqaGroup.CoffeeMachine.deps.json
+/Users/carterwickstrom/RiderProjects/SqaGroup.CoffeeMachine/SqaGroup.CoffeeMachine/bin/Debug/net9.0/SqaGroup.CoffeeMachine.dll
+/Users/carterwickstrom/RiderProjects/SqaGroup.CoffeeMachine/SqaGroup.CoffeeMachine/bin/Debug/net9.0/SqaGroup.CoffeeMachine.pdb
+/Users/carterwickstrom/RiderProjects/SqaGroup.CoffeeMachine/SqaGroup.CoffeeMachine/obj/Debug/net9.0/SqaGroup.CoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carterwickstrom/RiderProjects/SqaGroup.CoffeeMachine/SqaGroup.CoffeeMachine/obj/Debug/net9.0/SqaGroup.CoffeeMachine.AssemblyInfoInputs.cache
+/Users/carterwickstrom/RiderProjects/SqaGroup.CoffeeMachine/SqaGroup.CoffeeMachine/obj/Debug/net9.0/SqaGroup.CoffeeMachine.AssemblyInfo.cs
+/Users/carterwickstrom/RiderProjects/SqaGroup.CoffeeMachine/SqaGroup.CoffeeMachine/obj/Debug/net9.0/SqaGroup.CoffeeMachine.csproj.CoreCompileInputs.cache
+/Users/carterwickstrom/RiderProjects/SqaGroup.CoffeeMachine/SqaGroup.CoffeeMachine/obj/Debug/net9.0/SqaGroup.CoffeeMachine.dll
+/Users/carterwickstrom/RiderProjects/SqaGroup.CoffeeMachine/SqaGroup.CoffeeMachine/obj/Debug/net9.0/refint/SqaGroup.CoffeeMachine.dll
+/Users/carterwickstrom/RiderProjects/SqaGroup.CoffeeMachine/SqaGroup.CoffeeMachine/obj/Debug/net9.0/SqaGroup.CoffeeMachine.pdb
+/Users/carterwickstrom/RiderProjects/SqaGroup.CoffeeMachine/SqaGroup.CoffeeMachine/obj/Debug/net9.0/ref/SqaGroup.CoffeeMachine.dll
